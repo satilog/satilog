@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # I am Sathyajit - aka @satilog on the web & @satilame on X
+=======
+
+# 👋 Hello, I'm Sathyajit Loganathan!
+>>>>>>> parent of ed3c3f8 (Update skills)
 
 🚀 **Data Scientist | Software Engineer**  
 🎓 Pursuing MSc in Computer Science (Data Science) @ University of Regina  
@@ -19,11 +24,19 @@ I'm passionate about solving real-world problems with cutting-edge technology. F
 ---
 
 ## 🛠️ Tech Stack  
+<<<<<<< HEAD
 <span class="tag">Python</span> <span class="tag">JavaScript</span> <span class="tag">TypeScript</span> <span class="tag">C++</span>  
 <span class="tag">React</span> <span class="tag">Next.js</span> <span class="tag">Flask</span> <span class="tag">Node.js</span>  
 <span class="tag">TensorFlow</span> <span class="tag">PyTorch</span> <span class="tag">Keras</span> <span class="tag">Scikit-learn</span>  
 <span class="tag">PostgreSQL</span> <span class="tag">MongoDB</span> <span class="tag">Redis</span> <span class="tag">Elasticsearch</span>  
 <span class="tag">Docker</span> <span class="tag">Kubernetes</span> <span class="tag">AWS</span> <span class="tag">GCP</span>  
+=======
+**Languages:** Python, JavaScript, TypeScript, C++  
+**Frameworks:** React, Next.js, Flask, Node.js  
+**Data & AI:** TensorFlow, PyTorch, Keras, Scikit-learn, PostgreSQL, MongoDB  
+**DevOps:** Docker, Kubernetes, GCP, AWS, Vercel  
+**Special Skills:** RAG-based models, Semantic Search, AI Prompt Engineering
+>>>>>>> parent of ed3c3f8 (Update skills)
 
 ---
 
