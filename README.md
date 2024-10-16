@@ -1,102 +1,85 @@
-<<<<<<< HEAD
-# I am Sathyajit - aka @satilog on the web & @satilame on X
-=======
-
-# 👋 Hello, I'm Sathyajit Loganathan!
->>>>>>> parent of ed3c3f8 (Update skills)
-
-🚀 **Data Scientist | Software Engineer**  
-🎓 Pursuing MSc in Computer Science (Data Science) @ University of Regina  
-🏆 NASA Space Apps Challenge Winner (Local Event - Saskatoon) | Best Use of MongoDB @ Web3Apps MLH 2024
+# Hi there 👋  
+I'm **Sathyajit**, aka **@satilog** on the web and **@satilame** on X. Here's some info about me!
 
 ---
 
-## 🔥 A Little About Me  
-I'm passionate about solving real-world problems with cutting-edge technology. From building intelligent AI-powered educational platforms to navigating galaxies through 3D visualizations, I enjoy crafting meaningful solutions through code.  
+## ⚡ Work Experience:
+- **Teaching Assistant** @ University of Regina  
+  *Taught and evaluated labs for courses on Data Structures and Algorithms in C++.*  
+  *(Regina, Canada. 2024 - Present)*
 
-- **🌌 Recent Highlights:**  
-   - **NASA Space Apps Challenge Winner**: Developed an interactive exoplanet mapping platform  
-   - **Google Gemini AI Challenge**: Engineered curriculum generation using Gemini AI  
-   - **McGill Asset Management Hackathon**: Built a temporal fusion transformer for stock predictions
+- **Software Engineer** @ Watchdog – Focused on R&D  
+  *Built knowledge platforms, implemented RAG models, and increased user interaction by 5x.*  
+  *(Colombo, Sri Lanka. 2022 - 2023)*
 
-- **⚡ Fun Fact:** I love integrating AI models in everything I do (yes, even in cooking 🧑‍🍳).
+- **Software Engineer** @ Rooster Technology  
+  *Developed scalable microservices, real-time user alerts, and increased user engagement by 490%.*  
+  *(Colombo, Sri Lanka. 2020 - 2022)*
 
----
-
-## 🛠️ Tech Stack  
-<<<<<<< HEAD
-<span class="tag">Python</span> <span class="tag">JavaScript</span> <span class="tag">TypeScript</span> <span class="tag">C++</span>  
-<span class="tag">React</span> <span class="tag">Next.js</span> <span class="tag">Flask</span> <span class="tag">Node.js</span>  
-<span class="tag">TensorFlow</span> <span class="tag">PyTorch</span> <span class="tag">Keras</span> <span class="tag">Scikit-learn</span>  
-<span class="tag">PostgreSQL</span> <span class="tag">MongoDB</span> <span class="tag">Redis</span> <span class="tag">Elasticsearch</span>  
-<span class="tag">Docker</span> <span class="tag">Kubernetes</span> <span class="tag">AWS</span> <span class="tag">GCP</span>  
-=======
-**Languages:** Python, JavaScript, TypeScript, C++  
-**Frameworks:** React, Next.js, Flask, Node.js  
-**Data & AI:** TensorFlow, PyTorch, Keras, Scikit-learn, PostgreSQL, MongoDB  
-**DevOps:** Docker, Kubernetes, GCP, AWS, Vercel  
-**Special Skills:** RAG-based models, Semantic Search, AI Prompt Engineering
->>>>>>> parent of ed3c3f8 (Update skills)
+- **Data Engineer** @ Yukon Software  
+  *Automated ETL pipelines, built geospatial dashboards using PostgreSQL and PostGIS.*  
+  *(Colombo, Sri Lanka. 2020 - 2020)*
 
 ---
 
-## 💼 Related Work Experience  
-**Watchdog - Software Engineer (R&D)**  
-*September 2022 - August 2023*  
-- Scraped 20+ local news and journal websites, building a corpus of over a million articles.  
-- Implemented a RAG model with GPT-4 Turbo API, resulting in a 5x increase in user interaction.  
-- Developed knowledge platforms focused on government entities in Sri Lanka.
-
-**Rooster Technology (Pvt) Ltd - Software Engineer**  
-*July 2020 - August 2022*  
-- Increased user engagement by 490% by integrating Elasticsearch for advanced filters.  
-- Developed real-time user alerts, increasing user base by 150+ in the first month.  
-- Maintained and scaled 6 microservices to ensure seamless product operation.
-
-**Yukon Software - Data Engineer**  
-*March 2020 - June 2022*  
-- Automated ETL tasks, saving 6 hours of manual work weekly.  
-- Built geospatial dashboards using PostgreSQL, PostGIS, and ArcGIS for decision-making insights.
+## 🌱 Interests:
+- Building products that solve real-world problems.
+- Creating efficient systems with semantic search and vector-based models.
+- Learning about reinforcement learning and generative AI.
 
 ---
 
-## 📈 Recent Projects  
-- **🌌 NASA Space Apps Challenge (2024)**  
-  Developed an interactive exoplanetary explorer with React and three.js. Implemented KNN and LLM-based classifiers for identifying habitability of exoplanets.  
-  [🎥 Demo Video](https://www.youtube.com/watch?v=SYPQo4-P5J0)
+## 🛠️ Tech Stack:  
+- **Languages:** `Python`, `JavaScript`, `TypeScript`, `C++`  
+- **Frameworks & Libraries:** `React`, `Next.js`, `Flask`, `Node.js`  
+- **Cloud & DevOps:** `AWS`, `GCP`, `Kubernetes`, `Docker`, `Vercel`  
+- **Data & Search:** `PostgreSQL`, `MongoDB`, `Redis`, `Elasticsearch`, `Pinecone`  
+- **AI & Machine Learning:** `TensorFlow`, `PyTorch`, `Keras`, `Scikit-learn`  
+- **Integration & Messaging:** `GraphQL`, `Kafka`, `RabbitMQ`  
+- **Special Skills:** `Semantic Search`, `Prompt Engineering`, `RAG-based Models`
 
-- **📊 McGill FIAM Asset Management Hackathon (2024)**  
+---
+
+## 📈 Recent Projects:
+- **🌌 NASA Space Apps Challenge (2024):**  
+  Developed an interactive exoplanet explorer using React and three.js, with KNN and LLM-based classifiers for identifying habitable exoplanets.  
+  [🎥 Demo](https://www.youtube.com/watch?v=SYPQo4-P5J0)
+
+- **📊 McGill FIAM Asset Management Hackathon (2024):**  
   Developed a hybrid rolling forecast model using Temporal Fusion Transformer (TFT) for stock predictions. Implemented pipelines on GCP for data preprocessing.  
 
-- **🎓 Illumine - AI-Powered Educational Platform**  
-  Engineered an AI-based curriculum generation platform using Gemini AI. Reduced grading time to seconds with prompt-based evaluation.  
-  [🎥 Demo Video](https://www.youtube.com/watch?v=F8cMYcFo8No)
+- **🎓 Illumine - AI-Powered Educational Platform:**  
+  Engineered an AI-powered curriculum generation platform using Gemini AI, reducing grading time to seconds.  
+  [🎥 Demo](https://www.youtube.com/watch?v=F8cMYcFo8No)
 
-- **⚕️ Clinical Assistant App - MIMIC-IV Data Analysis and Visualization**  
-  Developed a data analysis platform for the MIMIC-IV clinical dataset on GCP, integrating classical ML models and BioGPT for predictive analytics. Designed pipelines with BigQuery and Cloud Functions. Leveraged Docker and Kubernetes to improve scalability and availability.  
-  [🎥 Demo Video](https://www.youtube.com/watch?v=DL0GQEr2-RA)
+- **⚕️ Clinical Assistant App - MIMIC-IV Data Analysis and Visualization:**  
+  Built a data analysis platform on GCP for the MIMIC-IV clinical dataset, integrating classical ML models and BioGPT. Used BigQuery and Cloud Functions for data pipelines and Docker + Kubernetes for scalability.  
+  [🎥 Demo](https://www.youtube.com/watch?v=DL0GQEr2-RA)
 
-- **🎥 Surveil AI**  
-  Built an advanced semantic search system for surveillance footage, using image captioning, object detection, and hybrid vector search with BM25 and ClipViT embeddings.
+- **🎥 Surveil AI:**  
+  Developed a semantic search system for surveillance footage, integrating image captioning, object detection, and hybrid vector models with BM25 and ClipViT embeddings.
 
-- **🛒 StoreNav - AI-Driven Store Navigation Optimization**  
-  Fine-tuned an Xception-based model for segment classification with 96% accuracy. Implemented a graph-based navigation system using A* and TSP heuristics, achieving sub-second query optimization. Built a real-time store layout management app integrating Flask and React.js.  
-  [🎥 Demo Video](https://www.loom.com/share/ada57420b1ba44bfa09c84e6b2049c22)
+- **🛒 StoreNav - AI-Driven Store Navigation Optimization:**  
+  Fine-tuned an Xception-based model to achieve 96% accuracy in segment classification. Implemented graph-based pathfinding with A* and TSP heuristics, achieving sub-second query optimization.  
+  [🎥 Demo](https://www.loom.com/share/ada57420b1ba44bfa09c84e6b2049c22)
+
+- **🔍 Surveil AI - Advanced Semantic Search for Surveillance (2024):**  
+  Integrated image captioning, text detection, and object detection models for video analysis. Combined BM25 and ClipViT embeddings for efficient search and enhanced query understanding through a Retrieval-Augmented Generation (RAG) model.
 
 ---
 
-## 🏆 Competitions & Awards  
-- **NASA Space Apps Challenge, Saskatoon Winner (2024)** - Progressed to global judging 🌌  
+## 🏆 Competitions & Awards:
+- **NASA Space Apps Challenge, Saskatoon Winner (2024):** Progressed to global judging 🌌  
 - **Best Use of MongoDB** - Web3Apps MLH Hackathon 2024 🏅  
-- **People’s Choice Award** - 24 Hour AgTech Startup (Canada Farm Show 2024)  
+- **People’s Choice Award** - 24 Hour AgTech Startup (Canada Farm Show 2024)
 
 ---
 
-## 🤝 Let's Connect  
-Feel free to check out my work and get in touch:  
-📧 Email: [loganathansathyajit@gmail.com](mailto:loganathansathyajit@gmail.com)  
-🌐 Portfolio: [satilog.io](https://satilog.io)  
+## 🤝 Let's Connect:
+📧 [loganathansathyajit@gmail.com](mailto:loganathansathyajit@gmail.com)  
+🌐 [satilog.io](https://satilog.io)  
+[LinkedIn](https://linkedin.com/in/sathyajit-loganathan) | [GitHub](https://github.com/satilog)
 
 ---
 
-### "Code is poetry, and I write stories every day." 🖋️  
+*"Code is poetry, and I write stories every day."* 🖋️
