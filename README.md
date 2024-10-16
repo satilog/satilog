@@ -36,7 +36,6 @@ I'm **Sathyajit**, aka **@satilog** on the web and **@satilame** on X. Here's so
 - **Data & Search:** `PostgreSQL`, `MongoDB`, `Redis`, `Elasticsearch`, `Pinecone`  
 - **AI & Machine Learning:** `TensorFlow`, `PyTorch`, `Keras`, `Scikit-learn`  
 - **Integration & Messaging:** `GraphQL`, `Kafka`, `RabbitMQ`  
-- **Special Skills:** `Semantic Search`, `Prompt Engineering`, `RAG-based Models`
 
 ---
 
