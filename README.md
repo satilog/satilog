@@ -63,9 +63,6 @@ I'm **Sathyajit**, aka **@satilog** on the web and **@satilame** on X. Here's so
   Fine-tuned an Xception-based model to achieve 96% accuracy in segment classification. Implemented graph-based pathfinding with A* and TSP heuristics, achieving sub-second query optimization.  
   [🎥 Demo](https://www.loom.com/share/ada57420b1ba44bfa09c84e6b2049c22)
 
-- **🔍 Surveil AI - Advanced Semantic Search for Surveillance (2024):**  
-  Integrated image captioning, text detection, and object detection models for video analysis. Combined BM25 and ClipViT embeddings for efficient search and enhanced query understanding through a Retrieval-Augmented Generation (RAG) model.
-
 ---
 
 ## 🏆 Competitions & Awards:
