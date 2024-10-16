@@ -55,15 +55,26 @@ I'm passionate about solving real-world problems with cutting-edge technology. F
 ## 📈 Recent Projects  
 - **🌌 NASA Space Apps Challenge (2024)**  
   Developed an interactive exoplanetary explorer with React and three.js. Implemented KNN and LLM-based classifiers for identifying habitability of exoplanets.  
-  
-- **🎓 Illumine - AI-Powered Educational Platform**  
-  Engineered an AI-based curriculum generation platform using Gemini AI. Reduced grading time to seconds with prompt-based evaluation.  
+  [🎥 Demo Video](https://www.youtube.com/watch?v=SYPQo4-P5J0)
 
 - **📊 McGill FIAM Asset Management Hackathon (2024)**  
-  Developed a hybrid rolling forecast model using Temporal Fusion Transformer (TFT) for stock predictions. Implemented pipelines on GCP for data preprocessing.
+  Developed a hybrid rolling forecast model using Temporal Fusion Transformer (TFT) for stock predictions. Implemented pipelines on GCP for data preprocessing.  
+
+- **🎓 Illumine - AI-Powered Educational Platform**  
+  Engineered an AI-based curriculum generation platform using Gemini AI. Reduced grading time to seconds with prompt-based evaluation.  
+  [🎥 Demo Video](https://www.youtube.com/watch?v=F8cMYcFo8No)
+
+- **⚕️ Clinical Assistant App - MIMIC-IV Data Analysis and Visualization**  
+  Developed a data analysis platform for the MIMIC-IV clinical dataset on GCP, integrating classical ML models and BioGPT for predictive analytics. Designed pipelines with BigQuery and Cloud Functions. Leveraged Docker and Kubernetes to improve scalability and availability.  
+  [🎥 Demo Video](https://www.youtube.com/watch?v=DL0GQEr2-RA)
 
 - **🎥 Surveil AI**  
   Built an advanced semantic search system for surveillance footage, using image captioning, object detection, and hybrid vector search with BM25 and ClipViT embeddings.
+
+- **🛒 StoreNav - AI-Driven Store Navigation Optimization**  
+  Fine-tuned an Xception-based model for segment classification with 96% accuracy. Implemented a graph-based navigation system using A* and TSP heuristics, achieving sub-second query optimization. Built a real-time store layout management app integrating Flask and React.js.  
+  [🎥 Demo Video](https://www.loom.com/share/ada57420b1ba44bfa09c84e6b2049c22)
+
 ---
 
 ## 🏆 Competitions & Awards  
