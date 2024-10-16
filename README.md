@@ -1,9 +1,9 @@
-# Hi there 👋  
+## Hi there 👋  
 I'm **Sathyajit**, aka **@satilog** on the web and **@satilame** on X. Here's some info about me!
 
 ---
 
-## ⚡ Work Experience:
+### ⚡ Work Experience:
 - **Teaching Assistant** @ University of Regina  
   *Taught and evaluated labs for courses on Data Structures and Algorithms in C++.*  
   *(Regina, Canada. 2024 - Present)*
@@ -22,14 +22,14 @@ I'm **Sathyajit**, aka **@satilog** on the web and **@satilame** on X. Here's so
 
 ---
 
-## 🌱 Interests:
+### 🌱 Interests:
 - Building products that solve real-world problems.
 - Creating efficient systems with semantic search and vector-based models.
 - Learning about reinforcement learning and generative AI.
 
 ---
 
-## 🛠️ Tech Stack:  
+### 🛠️ Tech Stack:  
 - **Languages:** `Python`, `JavaScript`, `TypeScript`, `C++`  
 - **Frameworks & Libraries:** `React`, `Next.js`, `Flask`, `Node.js`  
 - **Cloud & DevOps:** `AWS`, `GCP`, `Kubernetes`, `Docker`, `Vercel`  
@@ -40,7 +40,7 @@ I'm **Sathyajit**, aka **@satilog** on the web and **@satilame** on X. Here's so
 
 ---
 
-## 📈 Recent Projects:
+### 📈 Recent Projects:
 - **🌌 NASA Space Apps Challenge (2024):**  
   Developed an interactive exoplanet explorer using React and three.js, with KNN and LLM-based classifiers for identifying habitable exoplanets.  
   [🎥 Demo](https://www.youtube.com/watch?v=SYPQo4-P5J0)
@@ -65,14 +65,14 @@ I'm **Sathyajit**, aka **@satilog** on the web and **@satilame** on X. Here's so
 
 ---
 
-## 🏆 Competitions & Awards:
+### 🏆 Competitions & Awards:
 - **NASA Space Apps Challenge, Saskatoon Winner (2024):** Progressed to global judging 🌌  
 - **Best Use of MongoDB** - Web3Apps MLH Hackathon 2024 🏅  
 - **People’s Choice Award** - 24 Hour AgTech Startup (Canada Farm Show 2024)
 
 ---
 
-## 🤝 Let's Connect:
+### 🤝 Let's Connect:
 📧 [loganathansathyajit@gmail.com](mailto:loganathansathyajit@gmail.com)  
 🌐 [satilog.io](https://satilog.io)  
 [LinkedIn](https://linkedin.com/in/sathyajit-loganathan) | [GitHub](https://github.com/satilog)
