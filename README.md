@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm Sathyajit Loganathan!
+# I am Sathyajit - aka @satilog on the web & @satilame on X
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/sathyajit-loganathan)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen)](https://satilog.io)  
@@ -23,12 +23,57 @@ I'm passionate about solving real-world problems with cutting-edge technology. F
 
 ---
 
-## 🛠️ Tech Stack  
+<!-- ## 🛠️ Tech Stack  
 **Languages:** Python, JavaScript, TypeScript, C++  
 **Frameworks:** React, Next.js, Flask, Node.js  
 **Data & AI:** TensorFlow, PyTorch, Keras, Scikit-learn, PostgreSQL, MongoDB  
 **DevOps:** Docker, Kubernetes, GCP, AWS, Vercel  
-**Special Skills:** RAG-based models, Semantic Search, AI Prompt Engineering
+**Special Skills:** RAG-based models, Semantic Search, AI Prompt Engineering -->
+
+## 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)  
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)  
+
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white)  
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google-Cloud&logoColor=white)  
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=DigitalOcean&logoColor=white)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=Vercel&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)  
+
+**Data & Search**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)  
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)  
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white)  
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white)  
+![Pinecone](https://img.shields.io/badge/-Pinecone-8AC1F2?style=flat)  
+
+**AI & Machine Learning**  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)  
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+
+**Integration & Messaging**  
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white)  
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=Apache-Kafka&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white)  
+
+**Special Skills**  
+![Semantic Search](https://img.shields.io/badge/-Semantic%20Search-FF5A5F?style=flat)  
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-4A154B?style=flat)  
+![RAG-based Models](https://img.shields.io/badge/-RAG%20Models-000000?style=flat)  
 
 ---
 
