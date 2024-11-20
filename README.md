@@ -72,7 +72,7 @@ I'm **Sathyajit**, aka **@satilog** on the web and **@satilame** on X. Here's so
 #### 🏆 Competitions & Awards:
 
 - **2nd Place ($2500)** - Co.Hacks 2024 by Co.Labs
-- **Global Finalist** - NASA Space Apps Challenge (2024) 🌌
+- **Global Finalist** - NASA Space Apps Challenge 2024 🌌
 - **Best Use of MongoDB** - Web3Apps MLH Hackathon 2024 🏅
 - **People’s Choice Award ($1000)** - 24 Hour AgTech Startup (Canada Farm Show 2024)
 
